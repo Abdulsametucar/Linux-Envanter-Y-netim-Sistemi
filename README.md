@@ -70,7 +70,7 @@ Giriş ekranı açılacaktır. Varsayılan yönetici bilgileri:
     Kullanıcı Adı: samet
     Şifre: 123
 ##  📖 Kullanım Rehberi
-# 🔑 Giriş Sistemi
+### 🔑 Giriş Sistemi
 Kullanıcı, sistemde kayıtlı kullanıcı adı ve şifre bilgileri ile giriş yapar.
 Başarısız girişler: 3 kez hatalı giriş yapılırsa hesap kilitlenir.
 Kilitli hesaplar sadece yönetici tarafından tekrar aktif edilebilir.
