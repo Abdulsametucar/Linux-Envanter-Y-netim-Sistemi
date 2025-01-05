@@ -60,11 +60,11 @@ Proje dosyasını indirin:
 Script'i çalıştırılabilir hale getirin:
 
 
-    chmod +x scriptadi.sh
+    chmod +x filename.sh
 Script'i başlatın:
 
 
-    ./scriptadi.sh
+    ./filename.sh
 Giriş ekranı açılacaktır. Varsayılan yönetici bilgileri:
 
 
@@ -117,7 +117,7 @@ Tüm ürünler görsel bir tabloda listelenir.
 
 Raporlar, kullanıcı tarafından seçilen dosya yoluna kaydedilir.
 ##  📂 Dosya Yapısı
-**scriptadi.sh:** Projenin ana dosyasıdır.
+**filename.sh:** Projenin ana dosyasıdır.
 **depo.csv:** Ürün bilgilerini saklayan dosya (Ürün No, Ürün Adı, Stok, Fiyat).
 **kullanici.csv:** Kullanıcı bilgilerini saklayan dosya (Kullanıcı Adı, Şifre, Rol).
 **log.csv:** Tüm işlemleri ve hataları kayıt altına alır.
