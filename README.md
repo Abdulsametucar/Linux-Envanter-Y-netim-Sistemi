@@ -130,7 +130,14 @@ Kullanıcı giriş/çıkış bilgileri.
 Kilitli hesap denemeleri.
 Rapor oluşturma kayıtları.
 
-![image](https://github.com/user-attachments/assets/0c1ba4cc-911b-48c9-9bf5-3d445f599392) ![image](https://github.com/user-attachments/assets/26add8c8-9713-47a0-aa23-4c460291c4b1) ![image](https://github.com/user-attachments/assets/c690ae78-b9e3-4b3b-bbf2-1c16626e2551) ![image](https://github.com/user-attachments/assets/2260c913-5b79-4029-8b72-1b8ba2014962)
- ![image](https://github.com/user-attachments/assets/347bf89b-7a60-4147-8c42-59fb3328d2f6) ![image](https://github.com/user-attachments/assets/7ba3d789-ae8e-4f81-999f-b91a85887ef9) ![image](https://github.com/user-attachments/assets/598b569f-b112-452c-8e97-232499bdac61) ![image](https://github.com/user-attachments/assets/032d2ba1-960c-409e-83d3-177b6f587d74) ![image](https://github.com/user-attachments/assets/9261edf8-a8f9-471e-a4d6-4826b166aea0)
+![image](https://github.com/user-attachments/assets/0c1ba4cc-911b-48c9-9bf5-3d445f599392) 
+![image](https://github.com/user-attachments/assets/26add8c8-9713-47a0-aa23-4c460291c4b1) 
+![image](https://github.com/user-attachments/assets/c690ae78-b9e3-4b3b-bbf2-1c16626e2551) 
+![image](https://github.com/user-attachments/assets/2260c913-5b79-4029-8b72-1b8ba2014962)
+![image](https://github.com/user-attachments/assets/347bf89b-7a60-4147-8c42-59fb3328d2f6) 
+![image](https://github.com/user-attachments/assets/7ba3d789-ae8e-4f81-999f-b91a85887ef9) 
+![image](https://github.com/user-attachments/assets/598b569f-b112-452c-8e97-232499bdac61) 
+![image](https://github.com/user-attachments/assets/032d2ba1-960c-409e-83d3-177b6f587d74) 
+![image](https://github.com/user-attachments/assets/9261edf8-a8f9-471e-a4d6-4826b166aea0)
 
 
