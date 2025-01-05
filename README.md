@@ -1,4 +1,4 @@
-#YouTube link: **https://youtu.be/wytICejbiXY**
+# YouTube link: **https://youtu.be/wytICejbiXY**
 
 # 📦 Stok ve Kullanıcı Yönetim Sistemi
 
