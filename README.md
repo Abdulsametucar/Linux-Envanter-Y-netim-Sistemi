@@ -75,8 +75,13 @@ Giriş ekranı açılacaktır. Varsayılan yönetici bilgileri:
 Kullanıcı, sistemde kayıtlı kullanıcı adı ve şifre bilgileri ile giriş yapar.
 Başarısız girişler: 3 kez hatalı giriş yapılırsa hesap kilitlenir.
 Kilitli hesaplar sadece yönetici tarafından tekrar aktif edilebilir.
+
+![image](https://github.com/user-attachments/assets/0c1ba4cc-911b-48c9-9bf5-3d445f599392)
+
 ##  🏠 Ana Menü ve İşlevler
 Sisteme giriş yaptıktan sonra kullanıcı yetkisine göre şu menüler gösterilir:
+
+![image](https://github.com/user-attachments/assets/26add8c8-9713-47a0-aa23-4c460291c4b1) 
 
 **Yönetici Menüsü:**
 
@@ -84,6 +89,7 @@ Sisteme giriş yaptıktan sonra kullanıcı yetkisine göre şu menüler göster
 Kullanıcı işlemleri (Ekleme, düzenleme, silme, şifre sıfırlama).
 Raporlama işlemleri.
 Log kayıtlarını görüntüleme.
+
 **Kullanıcı Menüsü:**
 
 Ürün listeleme.
@@ -93,52 +99,71 @@ Raporlama.
 
 Ürün bilgileri (Ürün No, Ürün Adı, Stok Miktarı, Birim Fiyatı) form aracılığıyla alınır.
 Veri depo.csv dosyasına eklenir.
+
 **Ürün Listeleme:**
 
 Tüm ürünler görsel bir tabloda listelenir.
+
 **Ürün Güncelleme:**
 
 Ürün No'suna göre ürün bilgileri düzenlenebilir.
+
 **Ürün Silme:**
 
 Ürün No veya Ürün Adı bilgisiyle, ilgili ürün sistemden kaldırılır.
 ##  👥 Kullanıcı Yönetimi
+
+![image](https://github.com/user-attachments/assets/c690ae78-b9e3-4b3b-bbf2-1c16626e2551) 
+
 **Kullanıcı Ekleme:** Yeni bir kullanıcı (Kullanıcı Adı, Şifre, Rol) eklenir.
+
 **Kullanıcı Silme:** Var olan kullanıcı sistemden silinir.
+
 **Kullanıcı Güncelleme:** Kullanıcı adı veya şifre gibi bilgiler düzenlenebilir.
+
 **Şifre Sıfırlama:** Kullanıcının şifresi yeniden belirlenebilir.
+
 **Hesap Kilit Açma:** Kilitli kullanıcılar yönetici tarafından aktif hale getirilebilir.
+
 ## 📊 Raporlama
+
+![image](https://github.com/user-attachments/assets/2260c913-5b79-4029-8b72-1b8ba2014962)
+
 **Stok Raporları:**
 
 **Azalan Stok Ürünleri:** Stok miktarı 10’dan az olan ürünler raporlanır.
+
 **En Fazla Stok Ürünü:** Depodaki en yüksek stok miktarına sahip ürün raporlanır.
+
 **Rapor Kaydetme:**
 
 Raporlar, kullanıcı tarafından seçilen dosya yoluna kaydedilir.
+
 ##  📂 Dosya Yapısı
+
+![image](https://github.com/user-attachments/assets/347bf89b-7a60-4147-8c42-59fb3328d2f6) 
+
 **filename.sh:** Projenin ana dosyasıdır.
+
 **depo.csv:** Ürün bilgilerini saklayan dosya (Ürün No, Ürün Adı, Stok, Fiyat).
+
 **kullanici.csv:** Kullanıcı bilgilerini saklayan dosya (Kullanıcı Adı, Şifre, Rol).
+
 **log.csv:** Tüm işlemleri ve hataları kayıt altına alır.
+
 ## 📜 Loglama ve Hata Yönetimi
+
+![image](https://github.com/user-attachments/assets/9261edf8-a8f9-471e-a4d6-4826b166aea0)
+
 Tüm işlemler ve hatalar log.csv dosyasına yazılır.
 
 **Başlıca log türleri:**
+
 Kullanıcı giriş/çıkış bilgileri.
 Ürün işlemleri (ekleme, silme, güncelleme).
 Kilitli hesap denemeleri.
 Rapor oluşturma kayıtları.
 
-![image](https://github.com/user-attachments/assets/0c1ba4cc-911b-48c9-9bf5-3d445f599392) 
-
-![image](https://github.com/user-attachments/assets/26add8c8-9713-47a0-aa23-4c460291c4b1) 
-
-![image](https://github.com/user-attachments/assets/c690ae78-b9e3-4b3b-bbf2-1c16626e2551) 
-
-![image](https://github.com/user-attachments/assets/2260c913-5b79-4029-8b72-1b8ba2014962)
-
-![image](https://github.com/user-attachments/assets/347bf89b-7a60-4147-8c42-59fb3328d2f6) 
 
 ![image](https://github.com/user-attachments/assets/7ba3d789-ae8e-4f81-999f-b91a85887ef9)
 
@@ -153,6 +178,6 @@ yedeklenmiş hali olduğu için btu2 silinmesine rağmen hala kayıtlı
 
 ![image](https://github.com/user-attachments/assets/032d2ba1-960c-409e-83d3-177b6f587d74) 
 
-![image](https://github.com/user-attachments/assets/9261edf8-a8f9-471e-a4d6-4826b166aea0)
+
 
 
