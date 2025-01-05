@@ -58,74 +58,71 @@ Proje dosyasını indirin:
 
 Script'i çalıştırılabilir hale getirin:
 
-    ```bash
 
     chmod +x scriptadi.sh
 Script'i başlatın:
 
-bash
-Kodu kopyala
-./scriptadi.sh
+
+    ./scriptadi.sh
 Giriş ekranı açılacaktır. Varsayılan yönetici bilgileri:
 
-makefile
-Kodu kopyala
-Kullanıcı Adı: admin
-Şifre: admin
-📖 Kullanım Rehberi
-🔑 Giriş Sistemi
+
+    Kullanıcı Adı: samet
+    Şifre: 123
+##  📖 Kullanım Rehberi
+# 🔑 Giriş Sistemi
 Kullanıcı, sistemde kayıtlı kullanıcı adı ve şifre bilgileri ile giriş yapar.
 Başarısız girişler: 3 kez hatalı giriş yapılırsa hesap kilitlenir.
 Kilitli hesaplar sadece yönetici tarafından tekrar aktif edilebilir.
-🏠 Ana Menü ve İşlevler
+##  🏠 Ana Menü ve İşlevler
 Sisteme giriş yaptıktan sonra kullanıcı yetkisine göre şu menüler gösterilir:
 
-Yönetici Menüsü:
+**Yönetici Menüsü:**
 
 Ürün işlemleri (Ekleme, güncelleme, silme, listeleme).
 Kullanıcı işlemleri (Ekleme, düzenleme, silme, şifre sıfırlama).
 Raporlama işlemleri.
 Log kayıtlarını görüntüleme.
-Kullanıcı Menüsü:
+**Kullanıcı Menüsü:**
 
 Ürün listeleme.
 Raporlama.
-📦 Stok Yönetimi
-Ürün Ekleme:
+## 📦 Stok Yönetimi
+**Ürün Ekleme:**
 
 Ürün bilgileri (Ürün No, Ürün Adı, Stok Miktarı, Birim Fiyatı) form aracılığıyla alınır.
 Veri depo.csv dosyasına eklenir.
-Ürün Listeleme:
+**Ürün Listeleme:**
 
 Tüm ürünler görsel bir tabloda listelenir.
-Ürün Güncelleme:
+**Ürün Güncelleme:**
 
 Ürün No'suna göre ürün bilgileri düzenlenebilir.
-Ürün Silme:
+**Ürün Silme:**
 
 Ürün No veya Ürün Adı bilgisiyle, ilgili ürün sistemden kaldırılır.
-👥 Kullanıcı Yönetimi
-Kullanıcı Ekleme: Yeni bir kullanıcı (Kullanıcı Adı, Şifre, Rol) eklenir.
-Kullanıcı Silme: Var olan kullanıcı sistemden silinir.
-Kullanıcı Güncelleme: Kullanıcı adı veya şifre gibi bilgiler düzenlenebilir.
-Şifre Sıfırlama: Kullanıcının şifresi yeniden belirlenebilir.
-Hesap Kilit Açma: Kilitli kullanıcılar yönetici tarafından aktif hale getirilebilir.
-📊 Raporlama
-Stok Raporları:
+##  👥 Kullanıcı Yönetimi
+**Kullanıcı Ekleme:** Yeni bir kullanıcı (Kullanıcı Adı, Şifre, Rol) eklenir.
+**Kullanıcı Silme:** Var olan kullanıcı sistemden silinir.
+**Kullanıcı Güncelleme:** Kullanıcı adı veya şifre gibi bilgiler düzenlenebilir.
+**Şifre Sıfırlama:** Kullanıcının şifresi yeniden belirlenebilir.
+**Hesap Kilit Açma:** Kilitli kullanıcılar yönetici tarafından aktif hale getirilebilir.
+## 📊 Raporlama
+**Stok Raporları:**
 
-Azalan Stok Ürünleri: Stok miktarı 10’dan az olan ürünler raporlanır.
-En Fazla Stok Ürünü: Depodaki en yüksek stok miktarına sahip ürün raporlanır.
-Rapor Kaydetme:
+**Azalan Stok Ürünleri:** Stok miktarı 10’dan az olan ürünler raporlanır.
+**En Fazla Stok Ürünü:** Depodaki en yüksek stok miktarına sahip ürün raporlanır.
+**Rapor Kaydetme:**
 
 Raporlar, kullanıcı tarafından seçilen dosya yoluna kaydedilir.
-📂 Dosya Yapısı
-scriptadi.sh: Projenin ana dosyasıdır.
-depo.csv: Ürün bilgilerini saklayan dosya (Ürün No, Ürün Adı, Stok, Fiyat).
-kullanici.csv: Kullanıcı bilgilerini saklayan dosya (Kullanıcı Adı, Şifre, Rol).
-log.csv: Tüm işlemleri ve hataları kayıt altına alır.
-📜 Loglama ve Hata Yönetimi
+##  📂 Dosya Yapısı
+**scriptadi.sh:** Projenin ana dosyasıdır.
+**depo.csv:** Ürün bilgilerini saklayan dosya (Ürün No, Ürün Adı, Stok, Fiyat).
+**kullanici.csv:** Kullanıcı bilgilerini saklayan dosya (Kullanıcı Adı, Şifre, Rol).
+**log.csv:** Tüm işlemleri ve hataları kayıt altına alır.
+## 📜 Loglama ve Hata Yönetimi
 Tüm işlemler ve hatalar log.csv dosyasına yazılır.
-Başlıca log türleri:
+**Başlıca log türleri:**
 Kullanıcı giriş/çıkış bilgileri.
 Ürün işlemleri (ekleme, silme, güncelleme).
 Kilitli hesap denemeleri.
