@@ -18,10 +18,6 @@ Bu proje, **Bash Script** ile geliştirilmiş bir stok ve kullanıcı yönetim s
     - [Raporlama](#-raporlama)  
 6. [Dosya Yapısı](#-dosya-yapısı)  
 7. [Loglama ve Hata Yönetimi](#-loglama-ve-hata-yönetimi)  
-8. [Geliştirme Notları](#-geliştirme-notları)  
-9. [Katkıda Bulunma](#-katkıda-bulunma)  
-10. [İletişim](#-iletişim)  
-11. [Lisans](#-lisans)  
 
 ---
 
@@ -33,6 +29,7 @@ Bu projenin amacı:
 - **Hata ve işlem kaydı tutmak:** Loglama sistemi ile tüm işlemler kayıt altına alınır, bu sayede takip ve denetim kolaylaşır.
 
 ---
+![image](https://github.com/user-attachments/assets/0c1ba4cc-911b-48c9-9bf5-3d445f599392)
 
 ## ✨ Özellikler
 
