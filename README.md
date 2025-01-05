@@ -1,3 +1,5 @@
+#YouTube link: **https://youtu.be/wytICejbiXY**
+
 # 📦 Stok ve Kullanıcı Yönetim Sistemi
 
 Bu proje, **Bash Script** ile geliştirilmiş bir stok ve kullanıcı yönetim sistemidir. **Zenity** kullanılarak görsel arayüz desteği sağlanmış, temel stok yönetimi ve kullanıcı erişim kontrolü fonksiyonları eklenmiştir. Sistem, kullanıcıların kolay ve etkili bir şekilde depo işlemlerini gerçekleştirmesi için tasarlanmıştır.
