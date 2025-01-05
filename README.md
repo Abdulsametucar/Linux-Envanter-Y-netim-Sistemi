@@ -135,7 +135,9 @@ Rapor oluşturma kayıtları.
 ![image](https://github.com/user-attachments/assets/c690ae78-b9e3-4b3b-bbf2-1c16626e2551) 
 ![image](https://github.com/user-attachments/assets/2260c913-5b79-4029-8b72-1b8ba2014962)
 ![image](https://github.com/user-attachments/assets/347bf89b-7a60-4147-8c42-59fb3328d2f6) 
-![image](https://github.com/user-attachments/assets/7ba3d789-ae8e-4f81-999f-b91a85887ef9) 
+![image](https://github.com/user-attachments/assets/7ba3d789-ae8e-4f81-999f-b91a85887ef9)
+yedeklenmiş hali olduğu için btu2 silinmesine rağmen hala kayıtlı
+![image](https://github.com/user-attachments/assets/ba03a301-19bf-41a1-bc9f-e4f1686c509a)
 ![image](https://github.com/user-attachments/assets/d51d4011-5a2f-4817-b4c2-6c68fe9d6202)
 ![image](https://github.com/user-attachments/assets/598b569f-b112-452c-8e97-232499bdac61) 
 ![image](https://github.com/user-attachments/assets/032d2ba1-960c-409e-83d3-177b6f587d74) 
