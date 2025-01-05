@@ -29,7 +29,8 @@ Bu projenin amacı:
 - **Hata ve işlem kaydı tutmak:** Loglama sistemi ile tüm işlemler kayıt altına alınır, bu sayede takip ve denetim kolaylaşır.
 
 ---
-![image](https://github.com/user-attachments/assets/0c1ba4cc-911b-48c9-9bf5-3d445f599392)
+![image](https://github.com/user-attachments/assets/0c1ba4cc-911b-48c9-9bf5-3d445f599392) ![image](https://github.com/user-attachments/assets/26add8c8-9713-47a0-aa23-4c460291c4b1)
+
 
 ## ✨ Özellikler
 
