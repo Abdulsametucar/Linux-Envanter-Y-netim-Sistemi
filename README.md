@@ -122,6 +122,7 @@ Raporlar, kullanıcı tarafından seçilen dosya yoluna kaydedilir.
 **log.csv:** Tüm işlemleri ve hataları kayıt altına alır.
 ## 📜 Loglama ve Hata Yönetimi
 Tüm işlemler ve hatalar log.csv dosyasına yazılır.
+
 **Başlıca log türleri:**
 Kullanıcı giriş/çıkış bilgileri.
 Ürün işlemleri (ekleme, silme, güncelleme).
