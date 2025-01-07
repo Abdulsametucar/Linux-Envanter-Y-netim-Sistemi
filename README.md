@@ -1,3 +1,4 @@
+# GitHub link: **https://github.com/Abdulsametucar/Linux-Envanter-Yonetim-Sistemi**
 # YouTube link: **https://youtu.be/wytICejbiXY**
 
 # 📦 Stok ve Kullanıcı Yönetim Sistemi
